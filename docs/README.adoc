@@ -3,92 +3,72 @@
 == Batch Scripts
 
 [#winchecksum]
-* https://github.com/lxvs/winchecksum[Winchecksum^]
-+
+https://github.com/lxvs/winchecksum[Winchecksum^]::
 A wrapper of `certutil.exe` to calculate checksums.
 
 [#winchecksumwrapper]
-* https://github.com/lxvs/winchecksumwrapper[Winchecksum Wrapper^]
-+
+https://github.com/lxvs/winchecksumwrapper[Winchecksum Wrapper^]::
 A wrapper of <<winchecksum, winchecksum>>, adding winchecksum commands to right-click menu of files.
 
-* https://github.com/lxvs/jai[jai (Just Archive It)^]
-+
+https://github.com/lxvs/jai[jai (Just Archive It)^]::
 A batch script to compress directories to 7z archives (by adding items to right-click menu of directories).
 
-* https://github.com/lxvs/jsa[jsa (Johnny the Sysadmin)^]
-+
+https://github.com/lxvs/jsa[jsa (Johnny the Sysadmin)^]::
 A batch script for server management, like sending (or keep sending) ipmitool commands, monitor connectivity,
 start KVM.  The name `jsa' is a backronym, just 3 random letter that isn't a existing command.
 
-* https://github.com/lxvs/tvren[tvren^]
-+
+https://github.com/lxvs/tvren[tvren^]::
 A batch script to rename files or directories.  It does not support regex.  Can be seen as a wrapper of `ren`
 command.
 
-* https://github.com/lxvs/steamaccountswitcher[Steam Account Switcher^]
-+
+https://github.com/lxvs/steamaccountswitcher[Steam Account Switcher^]::
 Switch Steam account without re-entering passwords.
 
-* https://github.com/lxvs/copyappdata[copyappdata^]
-+
+https://github.com/lxvs/copyappdata[copyappdata^]::
 Copy AppData from one Windows user to another.
 
-* https://github.com/lxvs/cloudconf[CloudConf^] (link:/docs/cloudconf[documentation^])
-+
+https://github.com/lxvs/cloudconf[CloudConf^] (link:/docs/cloudconf[documentation^])::
 A batch script for syncing configurations from cloud storage for tools like Vim, Rime, Everything and SumatraPDF.
 
-* https://github.com/lxvs/cloudsave[cloudsave^]
-+
+https://github.com/lxvs/cloudsave[cloudsave^]::
 Link local game save files to cloud storage services, such as OneDrive, Dropbox, or Google Drive.
 
-* https://github.com/lxvs/makeveb[makeveb^]
-+
+https://github.com/lxvs/makeveb[makeveb^]::
 A batch script for building AMI Aptio V BIOS projects.
 
-* https://github.com/lxvs/runmru[runmru^]
-+
+https://github.com/lxvs/runmru[runmru^]::
 Delete specific items from Windows runmru.
 
-* https://github.com/lxvs/cscratch[cscratch^]
-+
+https://github.com/lxvs/cscratch[cscratch^]::
 A simple batch script to setup Visual Studio Build Environment, and provide some simple shortcut commands.
 
-* https://github.com/lxvs/ipmi[ipmi^]
-+
+https://github.com/lxvs/ipmi[ipmi^]::
 A batch script to make ipmitool more handy.  It was retired on November 3rd, 2021, superseded by
 https://github.com/lxvs/jsa[Johnny the Sysadmin^].
 
-* https://github.com/lxvs/checksum[checksum^]
-+
+https://github.com/lxvs/checksum[checksum^]::
 A batch script adding checksum calculation to Windows right-click menus.  It has retired and been superseded
 by <<winchecksumwrapper, Winchecksum Wrapper>>
 
 == Shell Scripts
 
-* https://github.com/lxvs/vom[vom (Vim on Mintty)^]
-+
+https://github.com/lxvs/vom[vom (Vim on Mintty)^]::
 It turns out, in Windows, the Vim coming with Git for Windows is more convenient than gVim.  This shell
 script makes that Vim the default editor, associates common file types to it, and add an `Edit with Vim on
 Mintty' item to right-click menu of files.
 
-* https://github.com/lxvs/jenkinsbuild[jenkinsbuild^]
-+
+https://github.com/lxvs/jenkinsbuild[jenkinsbuild^]::
 Setup git daemon and start building on Jenkins with a single command.
 
-* https://github.com/lxvs/jg[jg (Johnny's Git Kit)^]
-+
+https://github.com/lxvs/jg[jg (Johnny's Git Kit)^]::
 A bunch of utilities for git daily use.  Like jsa, `jg' is also a backronym.
 
-* https://github.com/lxvs/ieicommit[ieicommit^]
-+
+https://github.com/lxvs/ieicommit[ieicommit^]::
 A shell script that can be used in a team, to unify commit message.  It make git slightly simpler to use for
 average committer, and provides some handy shorthands.
 
-* https://github.com/lxvs/a2[a2^]
-+
+https://github.com/lxvs/a2[a2^]::
 A simple shell script to control aria2c.
 
-* https://github.com/lxvs/opal[opal^]
-+
+https://github.com/lxvs/opal[opal^]::
 A simple shell script driving https://github.com/Drive-Trust-Alliance/sedutil[sedutil-cli^].
