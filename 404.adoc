@@ -1,0 +1,3 @@
+= 404 Not Found
+
+link:/[return to the home page]

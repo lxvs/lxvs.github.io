@@ -1,0 +1,9 @@
+= Posts
+
+* link:/posts/shell-parameter-expansion[POSIX Shell Parameter Expansion]
+* link:/posts/install-old-python[How to Install an Old Version of Python on Debian or Ubuntu]
+* link:/posts/serial-output-in-gnu-linux[Enable Serial/SOL Output in GNU/Linux Systems]
+* link:/posts/set-environment-variables-in-windows[How to Set Environment Variables in Windows 10]
+* link:/posts/setup-ssh-server-in-windows[Setup SSH Server in Windows 10 or Windows Server, Online or Offline]
+* link:/posts/asciiz[What is ASCIIZ]
+* link:/posts/uefi-shell-script[Notes on UEFI Shell Scripting]
