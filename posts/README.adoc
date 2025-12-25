@@ -7,3 +7,4 @@
 * link:/posts/setup-ssh-server-in-windows[Setup SSH Server in Windows 10 or Windows Server, Online or Offline]
 * link:/posts/asciiz[What is ASCIIZ]
 * link:/posts/uefi-shell-script[Notes on UEFI Shell Scripting]
+* link:/posts/wheelcraft[Wheel Craft]
