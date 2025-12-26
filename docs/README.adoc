@@ -12,7 +12,7 @@ Auto deploy or syncing userdb for https://rime.im/[Rime^].
 
 [#runmru]
 runmru (https://github.com/lxvs/runmru[GitHub^])::
-Delete specific items from Windows runmru.  Use <<runmru, runmru>> instead.
+Delete specific items from Windows runmru.
 
 == Shell Scripts
 
@@ -37,7 +37,7 @@ Mintty* item to right-click menu of files.  Now that I migrated to https://neovi
 in favor of <<open-with-neovim, open-with-neovim>>.
 
 a2 ^[Deprecated]^ (https://github.com/lxvs/a2[GitHub^])::
-A simple shell script to control aria2c.  Use systemd service instead.
+A simple shell script to control aria2c.  Do not use it; write a systemd service instead.
 
 == Batch Scripts
 
@@ -64,7 +64,8 @@ command.  For regex batch renaming tool on Windows, you may want to check out
 https://www.ghisler.com/[Total Commander^].  Regex renaming is just one tiny piece of its features.
 
 runmru-bat ^[Deprecated]^ (https://github.com/lxvs/runmru-bat[GitHub^])::
-Delete specific items from Windows runmru.  Use <<runmru, runmru>> (Python implementation) instead.
+Delete specific items from Windows runmru.
+It has been deprecated in favor of <<runmru, runmru>> (Python implementation).
 
 ipmi ^[Deprecated]^ (https://github.com/lxvs/ipmi[GitHub^])::
 A batch script to make ipmitool more handy.  It was retired on November 3rd, 2021, superseded by <<jsa, jsa>> 
@@ -76,7 +77,7 @@ by <<winchecksumwrapper, Winchecksum Wrapper>>.
 
 cscratch ^[Deprecated]^ (https://github.com/lxvs/cscratch[GitHub^])::
 A simple batch script to setup Visual Studio Build Environment, and provide some simple shortcut commands.
-Get a GNU/Linux VPS/VM/WSL and use gcc instead.
+Do not use it; get a GNU/Linux VPS/VM/WSL and use gcc instead.
 
 link:/docs/cloudconf[cloudconf] ^[Deprecated]^ (https://github.com/lxvs/cloudconf[GitHub^])::
 A batch script for syncing configurations from cloud storage for tools like https://www.vim.org/[Vim^],
