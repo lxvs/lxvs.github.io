@@ -4,8 +4,7 @@
 
 [#jsa]
 jsa (https://github.com/lxvs/jsa[GitHub^])::
-A wrapper of https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface[IPMI^], The name `jsa` is
-just a random word that isn't an existing command.
+A wrapper of ipmitool, The name `jsa` is just a random word that isn't an existing command.
 
 [#rimesync]
 rimesync (https://github.com/lxvs/rimesync[GitHub^])::
