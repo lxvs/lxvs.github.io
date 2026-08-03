@@ -80,3 +80,7 @@ _permanently_, do an opposite of <<temporarily, _temporarily_>> (instead of
 appending console parameters, remove them). After booting successfully to OS,
 restore `/etc/default/grub` from the backup, and redo the step 3 of
 <<permanently, _permanently_>>.
+
+---
+
+link:#[Back to Top] | link:/[Home]

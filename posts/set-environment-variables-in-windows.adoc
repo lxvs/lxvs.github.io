@@ -31,3 +31,7 @@ the changes effective.
 Press `Win` + `R`, enter `rundll32.exe sysdm.cpl,EditEnvironmentVariables` and press Enter.
 
 _Note that pressing `Enter` will run a task with user privilege, where you can only change settings for current user. Press `Ctrl` + `Shift` + `Enter` instead to run it as administrator._
+
+---
+
+link:#[Back to Top] | link:/[Home]
