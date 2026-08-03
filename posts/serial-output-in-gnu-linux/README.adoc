@@ -1,3 +1,13 @@
+:icons: font
+
+ifdef::env-github,env-browser[]
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
 = Enable Serial/SOL Output in GNU/Linux Systems
 
 [#temporarily]
