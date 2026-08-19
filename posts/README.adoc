@@ -5,7 +5,7 @@ Quick reference of shell parameter expansions like `${parameter-DEFAULT}` or `${
 
 link:/posts/install-old-python[How to Install an Old Version of Python on Debian or Ubuntu]::
 
-link:/posts/serial-output-in-gnu-linux[Enable Serial/SOL Output in GNU/Linux Systems]::
+link:/posts/enable-serial-sol-output-for-rhel-centos-or-fedora[Enable Serial/SOL Output for RHEL, CentOS, or Fedora]::
 
 link:/posts/set-environment-variables-in-windows[How to Set Environment Variables in Windows]::
 3 ways to set envionment variables in Windows.
