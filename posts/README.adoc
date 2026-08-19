@@ -4,15 +4,19 @@ link:/posts/shell-parameter-expansion[POSIX Shell Parameter Expansion]::
 Quick reference of shell parameter expansions like `${parameter-DEFAULT}` or `${parameter%%pattern}`.
 
 link:/posts/install-old-python[How to Install an Old Version of Python on Debian or Ubuntu]::
+-
 
 link:/posts/enable-serial-sol-output-for-rhel-centos-or-fedora[Enable Serial/SOL Output for RHEL, CentOS, or Fedora]::
+-
 
 link:/posts/set-environment-variables-in-windows[How to Set Environment Variables in Windows]::
 3 ways to set environment variables in Windows.
 
 link:/posts/setup-ssh-server-in-windows[Setup SSH Server in Windows 10 or Windows Server, Online or Offline]::
+-
 
 link:/posts/asciiz[What is ASCIIZ]::
 TL;DR: A null-terminated string.
 
 link:/posts/uefi-shell-script[Notes on UEFI Shell Scripting]::
+-
