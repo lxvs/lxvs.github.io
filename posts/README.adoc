@@ -16,6 +16,3 @@ link:/posts/asciiz[What is ASCIIZ]::
 TL;DR: A null-terminated string.
 
 link:/posts/uefi-shell-script[Notes on UEFI Shell Scripting]::
-
-link:/posts/wheelcraft[Wheel Craft]::
-A guide to install pip packages on systems without internet.
