@@ -4,7 +4,7 @@
 
 [#jsa]
 jsa (https://github.com/lxvs/jsa[GitHub^])::
-A wrapper of ipmitool, The name `jsa` is just a random word that isn't an existing command.
+A wrapper of ipmitool, the name `jsa` is just a random word that isn't an existing command.
 
 [#rimesync]
 rimesync (https://github.com/lxvs/rimesync[GitHub^])::
@@ -68,7 +68,7 @@ Delete specific items from Windows runmru.
 It has been deprecated in favor of <<runmru, runmru>> (Python implementation).
 
 ipmi ^[Deprecated]^ (https://github.com/lxvs/ipmi[GitHub^])::
-A batch script to make ipmitool more handy.  It was retired on November 3rd, 2021, superseded by <<jsa, jsa>> 
+A batch script to make ipmitool more handy.  It was retired on November 3rd, 2021, superseded by <<jsa, jsa>>
 (Python implementation with more features).
 
 link:/docs/checksum[checksum] ^[Deprecated]^ (https://github.com/lxvs/checksum[GitHub^])::

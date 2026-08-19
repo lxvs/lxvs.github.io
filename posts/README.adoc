@@ -8,7 +8,7 @@ link:/posts/install-old-python[How to Install an Old Version of Python on Debian
 link:/posts/enable-serial-sol-output-for-rhel-centos-or-fedora[Enable Serial/SOL Output for RHEL, CentOS, or Fedora]::
 
 link:/posts/set-environment-variables-in-windows[How to Set Environment Variables in Windows]::
-3 ways to set envionment variables in Windows.
+3 ways to set environment variables in Windows.
 
 link:/posts/setup-ssh-server-in-windows[Setup SSH Server in Windows 10 or Windows Server, Online or Offline]::
 
