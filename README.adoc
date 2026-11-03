@@ -1,5 +1,0 @@
-= lxvs
-
-include::posts/README.adoc[]
-
-include::docs/README.adoc[]
