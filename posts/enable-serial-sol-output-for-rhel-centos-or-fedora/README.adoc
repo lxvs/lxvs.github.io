@@ -12,7 +12,7 @@ endif::[]
 
 = Enable Serial/SOL Output for RHEL, CentOS, or Fedora
 lxvs
-2.0, 2026/8/19
+v3, 2026/11/3
 
 [#permanently]
 == Permanently
@@ -24,6 +24,8 @@ sudo grubby --update-kernel=ALL --args="console=ttyS0,115200 console=tty0"
 ----
 
 See more about `console` parameter on https://docs.kernel.org/admin-guide/serial-console.html[kernel documents^].  If anything unexpected happens, see <<recovery,the recovery section>>.
+
+TIP: You can use `sudo grubby --info=ALL` to inspect current effective kernel options.
 
 [#temporarily]
 == Temporarily
